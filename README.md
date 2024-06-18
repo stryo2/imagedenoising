@@ -1,1 +1,2 @@
 # imagedenoising
+This project implements an image denoising model based on the RIDNet architecture, aiming to remove noise from images while preserving important details. The dataset includes pairs of clean and noisy images. The model uses Enhanced Attention Modules (EAMs) to capture multi-scale features, and is trained with the Adam optimizer and Mean Squared Error loss function. The final model achieved a PSNR value of 19.96.
